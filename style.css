@@ -1,0 +1,23 @@
+main#container{
+text-align: center;
+}
+
+p.fonte1{
+font-family: Arial;
+}    
+
+p.fonte2{
+font-family: Georgia;
+}
+
+p.fonte3{
+font-style: italic;
+}
+
+p.fonte4{
+font-variant: small-caps;
+}
+
+p.fonte5{
+font-family: monospace;
+}
